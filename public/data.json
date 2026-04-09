@@ -1,0 +1,135 @@
+{
+  "personal": {
+    "name": "Aarav Gupta",
+    "email": "aarav@example.com",
+    "github": "https://github.com/your-username",
+    "linkedin": "https://linkedin.com/in/your-profile",
+    "twitter": "https://twitter.com/your-handle",
+    "itchio": "https://your-username.itch.io",
+    "resume": "/resume.pdf"
+  },
+  "services": [
+    {
+      "title": "FairLensss",
+      "description": "A photography & visual storytelling platform built for creatives. Clean layout, immersive galleries, and smooth interactions that put the images first.",
+      "tags": ["Photography", "Web Design", "Netlify"],
+      "url": "https://fairlensss.netlify.app",
+      "thumbnail": "https://images.unsplash.com/photo-1554080353-a576cf803bda?w=600&h=400&fit=crop",
+      "logo": "",
+      "year": "2025",
+      "previewImages": [
+        "https://images.unsplash.com/photo-1554080353-a576cf803bda?w=900&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?w=900&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=900&h=600&fit=crop"
+      ]
+    },
+    {
+      "title": "Nebula Dashboard",
+      "description": "A real-time analytics dashboard with WebGL-powered data visualizations and dark-mode-first design. Built for speed and clarity.",
+      "tags": ["React", "Three.js", "D3"],
+      "url": "https://example.com",
+      "thumbnail": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&fit=crop",
+      "logo": "",
+      "year": "2024",
+      "previewImages": [
+        "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=900&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=900&h=600&fit=crop"
+      ]
+    },
+    {
+      "title": "Arcane Studio",
+      "description": "Portfolio platform for digital artists with immersive gallery views and smooth page transitions. Designed to make artwork shine.",
+      "tags": ["Next.js", "GSAP", "Prisma"],
+      "url": "https://example.com",
+      "thumbnail": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=600&h=400&fit=crop",
+      "logo": "",
+      "year": "2023",
+      "previewImages": [
+        "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=900&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=900&h=600&fit=crop"
+      ]
+    },
+    {
+      "title": "Pulse Commerce",
+      "description": "High-performance e-commerce storefront with 3D product previews and instant checkout. Conversion-optimized from the ground up.",
+      "tags": ["React", "Stripe", "Node.js"],
+      "url": "https://example.com",
+      "thumbnail": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600&h=400&fit=crop",
+      "logo": "",
+      "year": "2023",
+      "previewImages": [
+        "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=900&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1472851294608-062f824d29cc?w=900&h=600&fit=crop"
+      ]
+    }
+  ],
+  "games": [
+    {
+      "title": "Void Runner",
+      "description": "A fast-paced endless runner set in a collapsing space station. Dodge debris, hack doors, and outrun the void before it consumes everything. Built in 72 hours for the GMTK Game Jam 2024.",
+      "tags": ["Unity", "C#", "Game Jam"],
+      "itchUrl": "https://itch.io",
+      "thumbnail": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=600&h=400&fit=crop",
+      "year": "2024",
+      "previewImages": [
+        "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=900&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=900&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1518770660439-4636190af475?w=900&h=600&fit=crop"
+      ]
+    },
+    {
+      "title": "Neon Drift",
+      "description": "A synthwave racing game with procedurally generated tracks and a killer lo-fi soundtrack. Drift through neon-lit canyons and climb the global leaderboard.",
+      "tags": ["Godot", "GDScript", "Procedural"],
+      "itchUrl": "https://itch.io",
+      "thumbnail": "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?w=600&h=400&fit=crop",
+      "year": "2024",
+      "previewImages": [
+        "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?w=900&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=900&h=600&fit=crop"
+      ]
+    },
+    {
+      "title": "Echo Chamber",
+      "description": "A puzzle platformer where you manipulate sound waves to reveal hidden platforms and solve environmental puzzles. Winner of the Indie Dev Showcase 2023.",
+      "tags": ["Unity", "C#", "Puzzle"],
+      "itchUrl": "https://itch.io",
+      "thumbnail": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=600&h=400&fit=crop",
+      "year": "2023",
+      "previewImages": [
+        "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=900&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1500964757637-c85e8a162699?w=900&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1519638399535-1b036603ac77?w=900&h=600&fit=crop"
+      ]
+    }
+  ],
+  "art3d": [
+    {
+      "title": "Celestial Forge",
+      "description": "A fantastical blacksmith's forge floating in space, with molten metal rivers and crystalline anvils. Rendered in Cycles with volumetric lighting.",
+      "software": "Blender · Substance Painter",
+      "thumbnail": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=800&h=1000&fit=crop",
+      "sketchfabUrl": "https://sketchfab.com"
+    },
+    {
+      "title": "Overgrown Terminal",
+      "description": "An abandoned subway station reclaimed by nature, bioluminescent moss casting an eerie glow. 40M poly scene with hand-placed foliage.",
+      "software": "Blender · Cycles",
+      "thumbnail": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=800&h=1000&fit=crop",
+      "sketchfabUrl": "https://sketchfab.com"
+    },
+    {
+      "title": "Neon Pagoda",
+      "description": "A cyberpunk-meets-traditional Japanese pagoda drenched in neon light and rain. Real-time render using Eevee with custom HDRI.",
+      "software": "Blender · Eevee",
+      "thumbnail": "https://images.unsplash.com/photo-1579546929518-9e396f3cc809?w=800&h=1000&fit=crop"
+    },
+    {
+      "title": "Crystal Cavern",
+      "description": "Massive underground cave system with refractive crystal formations and volumetric fog. 6-hour render on a 4090.",
+      "software": "Blender · Octane",
+      "thumbnail": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&h=1000&fit=crop",
+      "sketchfabUrl": "https://sketchfab.com"
+    }
+  ]
+}
